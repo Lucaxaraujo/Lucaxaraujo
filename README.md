@@ -1,8 +1,8 @@
-###Hey, I am Lucas, welcome to my GitHub! 👋
+### Hey, I am Lucas, welcome to my GitHub! 👋
 
 Full Stack developer at Unixtech TI
 
-###Currently working with
+### Currently working with
 
 :computer: Javascript / Typescript, NodeJS, ReactJS, React Native, PostgreSQL
 
