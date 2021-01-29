@@ -4,7 +4,7 @@ Full Stack developer at Unixtech TI
 
 ### Currently working with
 
-Javascript / Typescript, NodeJS, ReactJS, React Native, PostgreSQL
+:computer: Javascript / Typescript, NodeJS, ReactJS, React Native, PostgreSQL
 
 
 ### You can reach me here:
