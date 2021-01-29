@@ -9,5 +9,5 @@ Full Stack developer at Unixtech TI
 
 You can reach me here:
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lvcxzz?label=Follow&logo=linkedin&style=social">
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-araujo-06065a16b/)](https://www.linkedin.com/in/lucas-araujo-06065a16b/)
 
