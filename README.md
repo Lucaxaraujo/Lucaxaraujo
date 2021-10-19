@@ -1,6 +1,6 @@
 ### Hey, I am Lucas, welcome to my GitHub! :grin:
 
-Full Stack developer at Unixtech TI
+Full Stack developer 
 
 ### Currently working with
 
