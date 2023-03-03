@@ -1,11 +1,22 @@
 ### Hey, I am Lucas, welcome to my GitHub! :grin:
 
-Full Stack developer 
+QA Analyst | QA Automation   
 
-### Currently working with
+### Main Hardskills :computer::
 
-:computer: Javascript / Typescript, NodeJS, ReactJS, React Native, PostgreSQL
-
+- Automated tests;
+- Functional tests;
+- Non-functional tests (Load, stress and performance testing);
+- Cucumber;
+- BDD;
+- Cypress;
+- AWS;
+- SQL / NOSQL (PostgreSQL / MongoDB, DynamoDB);
+- Jmeter;
+- Jira & X-ray;
+- Agile (Scrum, Kanban); 
+- Javascript / Typescript;
+- Ruby;
 
 ### You can reach me here:
 
