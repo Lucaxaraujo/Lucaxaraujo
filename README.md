@@ -2,7 +2,7 @@
 
 QA Analyst | QA Automation   
 
-### Main Hardskills :computer::
+### Main Skills :computer::
 
 - Automated tests;
 - Functional tests;
