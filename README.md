@@ -4,19 +4,19 @@ QA Analyst | QA Automation
 
 ### Main Skills :computer::
 
-- Automated tests;
-- Functional tests;
-- Non-functional tests (Load, stress and performance testing);
-- Cucumber;
+- Manual & Automated tests;
+- Functional / Non-functional tests (Load, stress and performance testing);
+- Cucumber;  - BDD;
 - BDD;
 - Cypress;
 - AWS;
-- SQL / NOSQL (PostgreSQL / MongoDB, DynamoDB);
 - Jmeter;
+- Ruby;
+- Javascript / Typescript;
+- SQL / NOSQL (PostgreSQL / MongoDB, DynamoDB);
 - Jira & X-ray;
 - Agile (Scrum, Kanban); 
-- Javascript / Typescript;
-- Ruby;
+
 
 ### You can reach me here:
 
