@@ -6,7 +6,7 @@ QA Analyst | QA Automation
 
 - Manual & Automated tests;
 - Functional / Non-functional tests (Load, stress and performance testing);
-- Cucumber;  - BDD;
+- Cucumber; 
 - BDD;
 - Cypress;
 - AWS;
