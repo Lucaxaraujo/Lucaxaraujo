@@ -1,12 +1,10 @@
 <img src="images/svg/header_en.svg"></img>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><img src="images/us-flag.png" height="13"> English</td></tr><tr><td><img src="images/br-flag.png" height="13"> Português</td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### :📍: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Tech Lead at [UNESP](https://unesp.br/) (São Paulo State University) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
