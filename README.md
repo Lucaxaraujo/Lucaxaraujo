@@ -1,9 +1,5 @@
 <img src="images/svg/header_en.svg"></img>
 
-<table align="right">
- <tr><td><img src="images/us-flag.png" height="13"> English</td></tr><tr><td><img src="images/br-flag.png" height="13"> Português</td></tr>
-</table>
-
 ###  :round_pushpin: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working in Software Testing field as a Quality Analist. \
@@ -43,7 +39,6 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-
 </details>
 
 <details>
@@ -58,7 +53,6 @@
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;\
 ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/FIGMA-00979D.svg?&style=flat&logo=figma&logoColor=white)&nbsp;
-
 </details>
 
 <hr/>
