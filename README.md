@@ -6,7 +6,7 @@
 
 ###  📍 &nbsp;About Me
 
-Currently working in Software Testing field as a Quality Analist. \
+&nbsp;&nbsp;&nbsp;Currently working in Software Testing field as a Quality Analist. \
 &nbsp;&nbsp;&nbsp; \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and spreading knowlege.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Software Development background with experience in Fontend, Backend and Mobile development.\
