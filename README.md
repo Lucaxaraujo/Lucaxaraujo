@@ -16,7 +16,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Main tech skills</b></summary>
   <br/>
 
 ![Cucumber](https://img.shields.io/badge/CUCUMBER-007396.svg?&style=flat&logo=cucumber&logoColor=white)&nbsp;
