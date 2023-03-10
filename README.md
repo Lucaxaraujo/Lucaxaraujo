@@ -4,14 +4,13 @@
  <tr><td><img src="images/us-flag.png" height="13"> English</td></tr><tr><td><img src="images/br-flag.png" height="13"> Português</td></tr>
 </table>
 
-###  📍 &nbsp;About Me
+###  :round_pushpin: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;Currently working in Software Testing field as a Quality Analist. \
-&nbsp;&nbsp;&nbsp; \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working in Software Testing field as a Quality Analist. \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and spreading knowlege.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Software Development background with experience in Fontend, Backend and Mobile development.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently preparing to CTFL certification, researching software testing and test automation.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl: &nbsp;Living in Brazil with my beautiful wife, baby daughter :two_hearts:, and Nico.
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl: &nbsp;Living in Brazil with my beautiful wife :two_hearts:, baby daughter :baby:, and Nico :cat_face:.
 
 <p align="center">
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
