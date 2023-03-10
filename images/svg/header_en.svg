@@ -22,7 +22,7 @@ svg {
 
 rect.headerRect {
   fill: black;
-  fill-opacity: 20%;
+  fill-opacity: 15%;
 }
 rect.headerRect:hover {
   fill: yellow;
@@ -136,7 +136,7 @@ g.typingUnderline rect {
            1 0 0 0 0  
            0 1 0 0 0  
            0 0 1 0 0  
-           0 0 0 13 -9" result="goo" />
+           0 0 0 13  -9" result="goo" />
       <xfeBlend in="SourceGraphic" in2="goo" />
   	</filter>
    
