@@ -52,7 +52,7 @@
 
 ![Playwright](https://img.shields.io/badge/PLAYWRIGHT-339933.svg?&style=flat&logo=playwright&logoColor=black)&nbsp;
 ![Selenium](https://img.shields.io/badge/SELENIUM-615e9b.svg?&style=flat&logo=selenium&logoColor=white)&nbsp;
-![Mocha](https://img.shields.io/badge/MOCHA-BB987B.svg?&style=flat&logo=mocha&logoColor=white)&nbsp;
+![Mocha](https://img.shields.io/badge/MOCHA-BB987B.svg?&style=flat&logo=mocha&logoColor=white)&nbsp;\
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp; 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;\
