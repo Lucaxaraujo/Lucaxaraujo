@@ -30,7 +30,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
-![Ruby](https://img.shields.io/badge/RUBY-%C71A36.svg?&style=flat&logo=ruby&logoColor=white)&nbsp;\
+![Ruby](https://img.shields.io/badge/RUBY-C71A36.svg?&style=flat&logo=ruby&logoColor=white)&nbsp;\
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![DynamoDB](https://img.shields.io/badge/DYNAMODB-4479A1.svg?&style=flat&logo=dynamodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
