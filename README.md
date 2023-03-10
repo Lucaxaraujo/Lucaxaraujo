@@ -6,10 +6,11 @@
 
 ###  📍 &nbsp;About Me
 
-Currently working in Software Testing field as a Quality Analist. \ &nbsp;&nbsp;&nbsp; \
+Currently working in Software Testing field as a Quality Analist. \
+&nbsp;&nbsp;&nbsp; \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and spreading knowlege.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Software Development background with experience in Fontend, Backend and Mobile development.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently preparing to CTFL certification, and researching software testing, test automation and it's best practices.\  
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently preparing to CTFL certification, researching software testing and test automation.\
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl: &nbsp;Living in Brazil with my beautiful wife, baby daughter :two_hearts:, and Nico.
 
 <p align="center">
