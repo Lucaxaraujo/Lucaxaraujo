@@ -3,9 +3,13 @@
 ###  :round_pushpin: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working in Software Testing field as a Mid QA Analyst. \
+
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and spreading knowlege.\
+
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Software Development background with experience in Fontend, Backend and Mobile development.\
+
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently preparing to CTFL certification, learning more about software testing and test automation.\
+
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl: &nbsp;Living in Brazil with my beautiful wife :two_hearts:, baby daughter :baby:, and Nico :cat:.
 
 <p align="center">
