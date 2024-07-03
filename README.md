@@ -8,9 +8,9 @@
 
 &nbsp;&nbsp;&nbsp;🛠️ &nbsp;Software Development background with experience in Fontend, Backend and Mobile development.
 
-&nbsp;&nbsp;&nbsp;:✍️ &nbsp;Currently preparing to CTFL certification, learning more about software testing and test automation.
+&nbsp;&nbsp;&nbsp;✍️ &nbsp;Currently preparing to CTFL certification, learning more about software testing and test automation.
 
-&nbsp;&nbsp;&nbsp;:👨‍👩‍👧‍👦 &nbsp;Living in Brazil with my beautiful wife and our 2 babies 👶👶.
+&nbsp;&nbsp;&nbsp;👨‍👩‍👧‍👦 &nbsp;Living in Brazil with my beautiful wife and our 2 babies 👶👶.
 
 <p align="center">
   <a href="mailto:lucasm030@gmail.com?subject=Olá%20Lucas%20Araujo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
