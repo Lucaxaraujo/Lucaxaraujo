@@ -2,13 +2,13 @@
 
 ###  :round_pushpin: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Currently working in Software Testing field as a Mid QA Analyst. 
+&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;QA Engineer with 4+ years of experience. 
 
 &nbsp;&nbsp;&nbsp;💗 &nbsp;Passionate with problem solving and spreading knowlege.
 
 &nbsp;&nbsp;&nbsp;🛠️ &nbsp;Software Development background with experience in Fontend, Backend and Mobile development.
 
-&nbsp;&nbsp;&nbsp;✍️ &nbsp;Currently preparing to CTFL certification, learning more about software testing and test automation.
+&nbsp;&nbsp;&nbsp;✍️ &nbsp;Currently preparing to CTFL certification, learning more about software testing, test automation and AI.
 
 &nbsp;&nbsp;&nbsp;👨‍👩‍👧‍👦 &nbsp;Living in Brazil with my beautiful wife and our 2 babies 👶👶.
 
